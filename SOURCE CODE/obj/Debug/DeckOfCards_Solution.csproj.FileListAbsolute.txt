@@ -1,0 +1,95 @@
+C:\Users\FChari\Dropbox\Dropbox\DeckOfCardsProblem\DeckOfCards_Solution\bin\Debug\DeckOfCards_Solution.exe.config
+C:\Users\FChari\Dropbox\Dropbox\DeckOfCardsProblem\DeckOfCards_Solution\bin\Debug\DeckOfCards_Solution.exe
+C:\Users\FChari\Dropbox\Dropbox\DeckOfCardsProblem\DeckOfCards_Solution\bin\Debug\DeckOfCards_Solution.pdb
+C:\Users\FChari\Dropbox\Dropbox\DeckOfCardsProblem\DeckOfCards_Solution\obj\Debug\DeckOfCards_Solution.Game.resources
+C:\Users\FChari\Dropbox\Dropbox\DeckOfCardsProblem\DeckOfCards_Solution\obj\Debug\DeckOfCards_Solution.PlayerSelect.resources
+C:\Users\FChari\Dropbox\Dropbox\DeckOfCardsProblem\DeckOfCards_Solution\obj\Debug\DeckOfCards_Solution.Properties.Resources.resources
+C:\Users\FChari\Dropbox\Dropbox\DeckOfCardsProblem\DeckOfCards_Solution\obj\Debug\DeckOfCards_Solution.csproj.GenerateResource.cache
+C:\Users\FChari\Dropbox\Dropbox\DeckOfCardsProblem\DeckOfCards_Solution\obj\Debug\DeckOfCards_Solution.csproj.CoreCompileInputs.cache
+C:\Users\FChari\Dropbox\Dropbox\DeckOfCardsProblem\DeckOfCards_Solution\obj\Debug\DeckOfCards_Solution.exe
+C:\Users\FChari\Dropbox\Dropbox\DeckOfCardsProblem\DeckOfCards_Solution\obj\Debug\DeckOfCards_Solution.pdb
+C:\Users\FChari\Dropbox\Dropbox\DeckOfCardsProblem\DeckOfCards_Solution\obj\Debug\DeckOfCards_Solution.csprojAssemblyReference.cache
+C:\Users\FChari\Dropbox\Dropbox\DeckOfCardsProblem\DeckOfCards_Solution\obj\Debug\DeckOfCards_Solution.Game_Player.resources
+C:\Users\Field\Dropbox\DeckOfCardsProblem\DeckOfCards_Solution\bin\Debug\DeckOfCards_Solution.exe.config
+C:\Users\Field\Dropbox\DeckOfCardsProblem\DeckOfCards_Solution\bin\Debug\DeckOfCards_Solution.exe
+C:\Users\Field\Dropbox\DeckOfCardsProblem\DeckOfCards_Solution\bin\Debug\DeckOfCards_Solution.pdb
+C:\Users\Field\Dropbox\DeckOfCardsProblem\DeckOfCards_Solution\obj\Debug\DeckOfCards_Solution.Game.resources
+C:\Users\Field\Dropbox\DeckOfCardsProblem\DeckOfCards_Solution\obj\Debug\DeckOfCards_Solution.Game_Player.resources
+C:\Users\Field\Dropbox\DeckOfCardsProblem\DeckOfCards_Solution\obj\Debug\DeckOfCards_Solution.PlayerSelect.resources
+C:\Users\Field\Dropbox\DeckOfCardsProblem\DeckOfCards_Solution\obj\Debug\DeckOfCards_Solution.Properties.Resources.resources
+C:\Users\Field\Dropbox\DeckOfCardsProblem\DeckOfCards_Solution\obj\Debug\DeckOfCards_Solution.csproj.GenerateResource.Cache
+C:\Users\Field\Dropbox\DeckOfCardsProblem\DeckOfCards_Solution\obj\Debug\DeckOfCards_Solution.csproj.CoreCompileInputs.cache
+C:\Users\Field\Dropbox\DeckOfCardsProblem\DeckOfCards_Solution\obj\Debug\DeckOfCards_Solution.exe
+C:\Users\Field\Dropbox\DeckOfCardsProblem\DeckOfCards_Solution\obj\Debug\DeckOfCards_Solution.pdb
+C:\Users\Field\Dropbox\DeckOfCardsProblem\DeckOfCards_Solution\bin\Debug\Transitions.dll
+C:\Users\Field\Dropbox\DeckOfCardsProblem\DeckOfCards_Solution\obj\Debug\DeckOfCards_Solution.csprojResolveAssemblyReference.cache
+C:\Users\Field\Dropbox\DeckOfCardsProblem\DeckOfCards_Solution\obj\Debug\DeckOfCards_Solution.About.resources
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\DeckOfCards_Solution.exe.config
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\DeckOfCards_Solution.exe
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\DeckOfCards_Solution.pdb
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Transitions.dll
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Transitions.pdb
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\obj\Debug\DeckOfCards_Solution.About.resources
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\obj\Debug\DeckOfCards_Solution.Game.resources
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\obj\Debug\DeckOfCards_Solution.Game_Player.resources
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\obj\Debug\DeckOfCards_Solution.PlayerSelect.resources
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\obj\Debug\DeckOfCards_Solution.Properties.Resources.resources
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\obj\Debug\DeckOfCards_Solution.csproj.GenerateResource.Cache
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\obj\Debug\DeckOfCards_Solution.csproj.CoreCompileInputs.cache
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\obj\Debug\DeckOfCards_Solution.exe
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\obj\Debug\DeckOfCards_Solution.pdb
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\10C.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\10D.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\10H.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\10S.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\2C.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\2D.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\2H.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\2S.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\3C.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\3D.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\3H.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\3S.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\4C.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\4D.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\4H.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\4S.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\5C.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\5D.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\5H.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\5S.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\6C.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\6D.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\6H.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\6S.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\7C.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\7D.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\7H.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\7S.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\8C.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\8D.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\8H.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\8S.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\9C.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\9D.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\9H.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\9S.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\AC.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\AD.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\AH.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\AS.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\cards.txt
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\JC.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\JD.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\JH.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\JJ.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\JK.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\JS.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\KC.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\KD.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\KH.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\KS.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\QC.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\QD.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\QH.png
+C:\Users\Field\Dropbox\DeckOfCardsProblem\SOURCE CODE\bin\Debug\Cards\QS.png
