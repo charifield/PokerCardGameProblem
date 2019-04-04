@@ -9,13 +9,14 @@ Create a program that meets the following requirements:
 3) Display the players and their cards
 4) Declare a winner
 
-Notes:  
--The deck of cards will be a standard 52 card deck.  
--You can represent the cards in any way as long as the suit and rank are indicated
--The winner will be based on standard poker hand rankings https://en.wikipedia.org/wiki/List_of_poker_hands
--We will look at the structure you used to represent the deck.  Please do not use any libraries for this aspect of the program.
--Other aspects of the program can use libraries, or other sources, as long as those sources are attributed
--You can use whatever technology you like to implement the game as long as we can see the source code and execute the final product.
+
+## Notes:  
+1) The deck of cards will be a standard 52 card deck.  
+1) You can represent the cards in any way as long as the suit and rank are indicated
+1) The winner will be based on standard poker hand rankings https://en.wikipedia.org/wiki/List_of_poker_hands
+1) We will look at the structure you used to represent the deck.  Please do not use any libraries for this aspect of the program.
+1) Other aspects of the program can use libraries, or other sources, as long as those sources are attributed
+1) You can use whatever technology you like to implement the game as long as we can see the source code and execute the final product.
 
 
 ## Demonstrated Technologies
